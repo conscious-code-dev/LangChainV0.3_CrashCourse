@@ -111,9 +111,9 @@ I’m documenting everything here: what I publish, what I learn and how it evolv
 
 ## 📅 August 22, 2025 — Episode 3 Recorded!
 
-**🎥 Video:** []()  
+**🎥 Video:** [LangChain v0.3 Streaming & Async Tutorial | Build a Python Trivia Bot with LCEL](https://youtu.be/e88zASre6kE)  
 **📂 Playlist:** [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)  
-**💻 Repo:** []()
+**💻 Repo:** (https://github.com/conscious-code-dev/Instant_Trivia_Bot)
 
 **Core Focus:**
 - Understanding the concepts , Many of them were new to me
@@ -126,6 +126,35 @@ I’m documenting everything here: what I publish, what I learn and how it evolv
 
 **Reflection:**
 > Recording of this one ate a lot of time.
+
+
+## 📅 August 23, 2025 — Episode 3 Released!
+
+**🎥 Video:** [Streaming + Async Pipelines (Build a Trivia Bot with LangChain v0.3)](https://youtu.be/e88zASre6kE)
+**📂 Playlist:** [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)
+**💻 Repo:** [GitHub – ConsciousCode/contract\_simplifier](https://github.com/conscious-code-dev/Instant_Trivia_Bot)
+
+**Core Focus:**
+
+* Building a **real-time trivia chatbot** using LangChain Expression Language (LCEL)
+* Demonstrating **streaming vs invoke** and **sync vs async execution**
+* Implementing **parallel pipelines** and **structured outputs**
+* Writing SEO-friendly **title, description, and timestamps** for better discoverability
+
+**Learning Activity:**
+
+* Practiced **progressive live coding** style (code evolves gradually → full chatbot.py)
+* Learned to explain `.stream()` vs `.astream()` clearly with visual streaming output
+* Organized the timestamps with SEO-driven phrasing from keyword research
+* Designed a thumbnail idea that highlights **async pipelines + trivia bot**
+
+**Reflection:**
+
+> Recording was smoother this time since the flow was more natural.
+> Editing took less time compared to Episode 2, but structuring explanations around `.stream` vs `.astream` needed careful pacing.
+> SEO keyword integration + timestamps turned out better than the last episode.
+> Overall, this episode feels like the "real start" of the **LangChain async journey**.
+
 
 
 
